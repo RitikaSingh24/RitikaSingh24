@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0C4A6E,100:0EA5E9&height=200&section=header&text=Ritika%20Singh&fontSize=56&fontColor=E6EDF3&fontAlignY=40&desc=B.Tech%20CSE%20%7C%20AI%20Systems%20%26%20Full%20Stack&descSize=17&descColor=7DD3FC&descAlignY=62&animation=twinkling" width="100%" alt="Ritika Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0C4A6E,100:0EA5E9&height=200&section=header&text=Ritika%20Singh&fontSize=56&fontColor=E6EDF3&fontAlignY=40&desc=B.Tech%20CSE%20-%20AI%20Systems%20and%20Full%20Stack&descSize=17&descAlignY=62&animation=twinkling" width="100%" alt="Ritika Singh" />
 
 <a href="https://github.com/RitikaSingh24">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+voice+AI+and+LLM+agent+workflows;LangGraph+%7C+FastAPI+%7C+React+%7C+PostgreSQL;3rd+Place+%E2%80%94+Tech+Fusion+2026+Hackathon;Turning+messy+problems+into+reliable+systems" alt="Typing SVG" />
@@ -194,6 +194,6 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 
 *Reliable systems come from clear thinking and careful engineering.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0C4A6E,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0C4A6E,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
