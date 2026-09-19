@@ -156,13 +156,15 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 
 ---
 
+
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaSingh24&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=E6EDF3&area=true&area_color=0EA5E9&hide_border=true&title_color=38BDF8" alt="Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/RitikaSingh24/RitikaSingh24/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
+
 
 ---
 
