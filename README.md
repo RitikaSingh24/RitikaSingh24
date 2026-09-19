@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=220&section=header&text=Ritika%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Hackathon%20Winner&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://raw.githubusercontent.com/RitikaSingh24/RitikaSingh24/main/banner.svg" width="100%" alt="Ritika Singh" />
 
 <a href="https://github.com/RitikaSingh24">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%7C+Class+of+2027;Hackathon+Winner;Building+Software+That+Solves+Real+Problems" alt="Typing SVG" />
