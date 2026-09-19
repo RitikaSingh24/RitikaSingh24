@@ -143,7 +143,7 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 
 ---
 
-## GitHub Analytics
+
 
 ## GitHub Analytics
 
@@ -151,13 +151,8 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 
 <img src="https://streak-stats.demolab.com/?user=RitikaSingh24&hide_border=false&background=0D1117&border=1F2937&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/0EA5E9/RitikaSingh24" alt="Contribution Chart" width="100%" />
-
 </div>
 
----
 
 ---
 
