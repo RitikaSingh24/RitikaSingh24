@@ -145,16 +145,19 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RitikaSingh24&show_icons=true&hide_border=false&bg_color=0D1117&border_color=1F2937&title_color=38BDF8&text_color=C9D1D9&icon_color=0EA5E9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaSingh24&layout=compact&hide_border=false&bg_color=0D1117&border_color=1F2937&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=RitikaSingh24&hide_border=false&background=0D1117&border=1F2937&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/0EA5E9/RitikaSingh24" alt="Contribution Chart" width="100%" />
+
 </div>
+
+---
 
 ---
 
