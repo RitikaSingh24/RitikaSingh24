@@ -4,12 +4,6 @@
 
 Backend-focused engineer specializing in secure, production-minded systems for LLM-powered applications. My work spans agentic workflows with LangGraph, REST API design with Node.js and FastAPI, and the validation, authentication and fault-tolerance layers that make AI features dependable. 3rd place at the Tech Fusion 2026 Hackathon (30+ teams), and delivered a working solution in 72 hours at the national-level CodeXccelerate 2025 Hackathon.
 
-## Core Focus
-
-- **Backend Engineering:** Microservice-based APIs with JWT authentication, role-based access control, schema validation and rate limiting
-- **Applied AI:** LLM integration, tool calling and multi-step agentic pipelines with fallback handling and output guardrails
-- **Reliability:** Structured logging, request tracing, error monitoring and graceful degradation
-
 ## Tech Stack
 
 | Area | Technologies |
