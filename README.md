@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0C4A6E,100:0EA5E9&height=200&section=header&text=Ritika%20Singh&fontSize=56&fontColor=E6EDF3&fontAlignY=40&desc=B.Tech%20CSE%20-%20AI%20Systems%20and%20Full%20Stack&descSize=17&descAlignY=62&animation=twinkling" width="100%" alt="Ritika Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0C4A6E,100:0EA5E9&height=200&section=header&text=Ritika%20Singh&fontSize=56&fontColor=E6EDF3&fontAlignY=40&desc=Backend%20%26%20AI%20Engineer%20-%20B.Tech%20CSE&descSize=17&descAlignY=62&animation=twinkling" width="100%" alt="Ritika Singh" />
 
 <a href="https://github.com/RitikaSingh24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+voice+AI+and+LLM+agent+workflows;LangGraph+%7C+FastAPI+%7C+React+%7C+PostgreSQL;3rd+Place+%E2%80%94+Tech+Fusion+2026+Hackathon;Turning+messy+problems+into+reliable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+secure+backend+systems+for+AI;LLM+agents+%7C+LangGraph+%7C+FastAPI+%7C+Node.js;3rd+Place+%E2%80%94+Tech+Fusion+2026+Hackathon;Making+AI+reliable+in+production" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,13 +26,14 @@
 
 ---
 
-## About
+## Summary
 
-I build AI-driven products that solve real workflow problems, from voice-based order entry to self-correcting LLM agents. My work sits between **agent orchestration, backend engineering, and clean React interfaces**, with a focus on measurable outcomes and secure, reliable systems.
+I'm a Computer Science student who builds **secure, fault-tolerant backends for AI-powered products**. My work centres on LLM agent workflows, API design, and the guardrails that keep AI output trustworthy, from voice-based ordering to validated LLM pipelines with fallbacks, retries and monitoring.
 
 ```yaml
-role:      B.Tech CSE Student | Class of 2027
-focus:     LLM agents, backend APIs, full-stack products
+role:       B.Tech CSE Student | Class of 2027
+focus:      Backend engineering, LLM agents, AI reliability
+strengths:  REST APIs, JWT/RBAC security, LangGraph workflows, guardrails
 recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 ```
 
@@ -42,143 +43,41 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,postgres&theme=dark" alt="Languages and SQL" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,html,css&theme=dark" alt="Backend and Frontend" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb,redis,aws,docker,nginx,githubactions,linux&theme=dark" alt="Data and Infra" />
+**Backend and Databases**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,js,cpp,postgres,mongodb,redis&theme=dark" alt="Backend and Databases" />
+
+**AI and Automation**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-0C4A6E?style=flat-square&labelColor=0D1117)
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0EA5E9?style=flat-square&labelColor=0D1117)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1F6FEB?style=flat-square&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/OpenAI-0C4A6E?style=flat-square&labelColor=0D1117&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0EA5E9?style=flat-square&labelColor=0D1117&logo=googlegemini&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20Auth-1F6FEB?style=flat-square&labelColor=0D1117)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0C4A6E?style=flat-square&labelColor=0D1117)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-1F6FEB?style=flat-square&labelColor=0D1117)
+![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-0C4A6E?style=flat-square&labelColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-1F6FEB?style=flat-square&labelColor=0D1117&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0C4A6E?style=flat-square&labelColor=0D1117&logo=googlegemini&logoColor=white)
+
+**Security and APIs**
+
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square&labelColor=0D1117)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-1F6FEB?style=flat-square&labelColor=0D1117)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth-1F6FEB?style=flat-square&labelColor=0D1117)
+![RBAC](https://img.shields.io/badge/RBAC-0C4A6E?style=flat-square&labelColor=0D1117)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0EA5E9?style=flat-square&labelColor=0D1117)
+
+**Cloud, DevOps and Frontend**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux,git,react,html,css&theme=dark" alt="Cloud, DevOps and Frontend" />
 
 </div>
 
 ---
 
-## Featured Projects
+## Goals
 
-<details open>
-<summary><b>BolOrder: Voice AI for Hindi/Hinglish Order Placement</b></summary>
-
-<br/>
-
-| | |
-|:--|:--|
-| **Stack** | React.js, Node.js, Express.js, FastAPI, PostgreSQL, Redis, Docker, LangGraph |
-| **Impact** | Cut manual order-entry time by **80%** for salesmen |
-| **AI Reliability** | LangGraph agent with few-shot prompting and persona shaping, validated across **15+** tool-calling scenarios |
-| **Accuracy** | Whisper STT + LLM extraction + RapidFuzz matching at **70-75%** confidence-threshold accuracy |
-| **Security** | JWT-based RBAC across **3 roles** with full audit trails, zero unauthorized access incidents |
-| **Repository** | [github.com/RitikaSingh24/BolOrder](https://github.com/RitikaSingh24/BolOrder) |
-
-</details>
-
-<details>
-<summary><b>ForgeCV: Human-in-the-Loop Resume Agent</b></summary>
-
-<br/>
-
-| | |
-|:--|:--|
-| **Stack** | React, Express, FastAPI, LangGraph, Prisma, PostgreSQL |
-| **Trust** | Human-in-the-loop agent with checkpointed self-correction, yielding **zero** false-positive skill entries |
-| **Reliability** | RapidFuzz-based evidence matching with signed internal APIs for consistent evaluation accuracy |
-
-</details>
-
----
-
-## Experience
-
-**Web Development Intern** &nbsp;|&nbsp; Unified Mentor &nbsp;|&nbsp; `June 2025 – August 2025` &nbsp;|&nbsp; Remote
-
-- Built **3** interactive frontend applications (Tic Tac Toe, personal portfolio, image slider) with fully responsive layouts across desktop and mobile
-- Applied DOM manipulation and event-driven architecture using HTML, CSS, and JavaScript
-- Focused on responsive UI design and a smooth user experience across devices
-
-![HTML](https://img.shields.io/badge/HTML-0C4A6E?style=flat-square&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/CSS-0EA5E9?style=flat-square&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F6FEB?style=flat-square&labelColor=0D1117)
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| **3rd Place, Tech Fusion 2026** | Hackathon podium finish among 30+ participating teams |
-| **Dean's Honor Certificate** | Semester GPA above 8.5 in 2 consecutive semesters |
-| **CodeXccelerate 2025** | Participated in a national-level 72-hour hackathon (Apr 2025) |
-
-</div>
-
----
-
-## Certifications
-
-![Python Training](https://img.shields.io/badge/Python%20Training-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-1F6FEB?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
-![Web Development Internship](https://img.shields.io/badge/Web%20Development-Internship-0C4A6E?style=for-the-badge&logoColor=white&labelColor=0D1117)
-
----
-
-## Coding Profile
-
-<div align="center">
-
-<a href="https://leetcode.com/u/RitikaSingh24/"><img src="https://img.shields.io/badge/LeetCode-RitikaSingh24-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode" /></a>
-
-</div>
-
----
-
-
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=RitikaSingh24&hide_border=false&background=0D1117&border=1F2937&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-
----
-
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RitikaSingh24/RitikaSingh24/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-
-</div>
-
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitikaSingh24/RitikaSingh24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitikaSingh24/RitikaSingh24/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/RitikaSingh24/RitikaSingh24/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+- Land a **Backend / AI Engineer** role building production LLM products
+- Go deeper into **agentic systems**: orchestration, evaluation and observability
+- Contribute to **open-source** AI tooling and backend frameworks
+- Keep sharpening **DSA and system design** with consistent practice
 
 ---
 
@@ -189,6 +88,7 @@ recognized: 3rd Place, Tech Fusion 2026 | Dean's Honor Certificate
 <a href="mailto:ritikasinghh.2424@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/ritikaa-singh/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/RitikaSingh24"><img src="https://img.shields.io/badge/GitHub-0C4A6E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/RitikaSingh24/"><img src="https://img.shields.io/badge/LeetCode-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 <br/><br/>
 
