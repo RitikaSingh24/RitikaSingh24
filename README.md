@@ -1,8 +1,6 @@
 # Ritika Singh
 
-**Backend & AI Engineer**
 
-## Summary
 
 Backend-focused engineer building secure, reliable systems for AI-powered applications. I work across REST API design, LLM agent workflows and the validation, authentication and fault-tolerance layers that make AI features dependable in production.
 
