@@ -17,7 +17,7 @@ Backend-focused engineer building secure, reliable systems for AI-powered applic
 - **Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT
 - **AI:** LangGraph, LLM Integration, Tool Calling, Prompt Engineering
 - **Databases:** PostgreSQL, MongoDB, Redis
-- **Tools:** AWS, Git, Postman, React.js
+- **Tools:** AWS, Git, Postman, React.js.
 
 ## Goals
 
